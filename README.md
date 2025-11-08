@@ -1,4 +1,5 @@
 FORK : Docker build.
+Et retiré le - à la fin du nom de l'outil, sinon GitHub ne peut pas construire l'image...
 
 
 # ✨ Stop the Tab-Hopping Madness! Get ALL Your Ratings in Stremio ✨
