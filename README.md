@@ -1,3 +1,6 @@
+FORK : Docker build.
+
+
 # ✨ Stop the Tab-Hopping Madness! Get ALL Your Ratings in Stremio ✨
 
 [![Addon Preview - See all ratings in one place!](https://i.postimg.cc/kGG69XG6/Screenshot-From-2025-04-22-00-06-01.png)](https://postimg.cc/ctq4BWQ0)
